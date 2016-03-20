@@ -1,0 +1,3 @@
+<?php
+
+VoterAuth\OAuthRequestHandler::handleRequest();
